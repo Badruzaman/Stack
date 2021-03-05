@@ -21,4 +21,7 @@ if __name__ == "__main__":
     s = Stack()
     print(s)
     s.push(4)
+    s.push(5)
+    s.push(6)
+    s.push(8)
     print(s)
