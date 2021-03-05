@@ -25,4 +25,4 @@ if __name__ == "__main__":
     s.push(6)
     s.push(8)
     print(s)
-    sdkfjsd
+
