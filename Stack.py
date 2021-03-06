@@ -1,7 +1,5 @@
 
 
-
-
 class Stack:
     def __init__(self):
         self.items = [];
@@ -25,4 +23,5 @@ if __name__ == "__main__":
     s.push(6)
     s.push(8)
     print(s)
-
+    print('Pop item ', s.pop())
+    print('list after pop ', s)
