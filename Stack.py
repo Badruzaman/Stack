@@ -24,4 +24,5 @@ if __name__ == "__main__":
     s.push(8)
     print(s)
     print('Pop item ', s.pop())
-    print('list after pop ', s)
+    print('Array after pop ', s)
+    print('Array size ', s.size())
